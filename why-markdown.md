@@ -29,6 +29,6 @@
 
 ## What Markdown cannot achieve
 
-- Good spellcheck
+- proper spellchecking
 - individual formatting
 - exact page formatting for printing (paragraphs might ge cut off)
