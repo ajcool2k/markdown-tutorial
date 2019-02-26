@@ -2,5 +2,7 @@
 
 Markdown Tutorial for Beginners
 
-[Why should I use Markdown](why-markdown)
-[Editors](editors)
+## Table Of Contents
+
+- [Why should I use Markdown](why-markdown)
+- [Editors](editors)
