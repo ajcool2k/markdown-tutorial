@@ -1,0 +1,20 @@
+# Why Markdown
+
+- version control
+- platform independent
+- readable on terminal via cat
+- no licence fees
+- still readable in 150 years 
+- easy to learn and use on every system
+- concentrate on writing not on formatting (problems)
+- writers can choose a formatting for their own preference without forcing formatting for others
+- filesize
+- plaintext documents can easiliy be searched
+- needed in open source projects
+- exports are possible e.g. pdf or html
+
+## What Markdown cannot achieve
+
+- Good spellcheck
+- individual formatting
+- exact page formatting for printing (paragraphs might ge cut off)
