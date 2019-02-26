@@ -2,4 +2,4 @@
 
 Markdown Tutorial for Beginners
 
-[Why-Markdown](why-markdown)
+[Why should I use Markdown](why-markdown)
